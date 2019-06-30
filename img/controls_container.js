@@ -1,0 +1,2 @@
+define(["require","exports","external/react","external/classnames"],function(e,r,t,n){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.TitleBarControlsContainer=function(e){var r=e.children;return t.createElement("div",{className:n("react-title-bar__controls","u-mar-right-xs")},r)}});
+//# sourceMappingURL=controls_container.min.js-vflAYON5b.map

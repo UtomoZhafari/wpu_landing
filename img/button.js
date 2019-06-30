@@ -1,0 +1,2 @@
+define(["require","exports","tslib","external/react","modules/clean/react/sign_in/utils","modules/core/i18n","spectrum/button"],function(n,t,e,r,i,o,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.SignInButton=function(n){var t=n.isPrimaryButton,u=e.__rest(n,["isPrimaryButton"]),a=i.getSignInAndContinueUrl(),l=t?"primary":"secondary";return r.createElement(s.Button,e.__assign({className:"sign-in-link control__button",variant:l,href:a},u),o._("Sign in"))},t.SignInButton.defaultProps={isPrimaryButton:!0}});
+//# sourceMappingURL=button.min.js-vflIO4XcN.map

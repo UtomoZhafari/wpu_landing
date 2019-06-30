@@ -1,0 +1,2 @@
+define(["require","exports","modules/core/browser","modules/core/uri"],function(e,r,n,t){"use strict";function o(){return new t.URI({path:"/login",query:{cont:n.get_href()}}).toString()}Object.defineProperty(r,"__esModule",{value:!0}),r.getSignInAndContinueUrl=o});
+//# sourceMappingURL=utils.min.js-vfl5aUFvv.map
